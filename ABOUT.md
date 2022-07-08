@@ -28,3 +28,5 @@ Following libraries are required:
 4. Numpy
 
 ## ScreenShots:
+
+![alt text](https://github.com/Rishabh-Tripathi1/House-Price-Prediction/blob/main/images/Home.jpg?raw=true)
