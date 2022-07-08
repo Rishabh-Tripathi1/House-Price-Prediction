@@ -8,7 +8,7 @@ Components on the site:<br />
 1. Location of the property (Drop-Down)<br />
 2. Area in Sq/Ft (Input)<br />
 3. No. of Bedrooms (Input)<br />
-4. Toggle Buttons (Yes/No):<br />
+4. Toggle Buttons (Yes/No):
    - Gymnasium
    - Car Parking
    - Indoor Games
