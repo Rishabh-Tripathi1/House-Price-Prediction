@@ -9,9 +9,9 @@ Components on the site:<br />
 2. Area in Sq/Ft (Input)<br />
 3. No. of Bedrooms (Input)<br />
 4. Toggle Buttons (Yes/No):<br />
-  (i) Gymnasium<br />
-  (ii) Car Parking<br />
-  (iii) Indoor Games<br />
-  (iv) Jogging Track<br />
+  * Gymnasium<br />
+  * Car Parking<br />
+  * Indoor Games<br />
+  * Jogging Track<br />
 
 <h2> Requirements: </h2>
